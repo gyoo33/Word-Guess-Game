@@ -1,0 +1,16 @@
+body {
+    background: url(../images/beach.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
